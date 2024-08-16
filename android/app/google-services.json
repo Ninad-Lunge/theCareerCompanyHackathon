@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217217520914",
+    "project_id": "thecareercompany-3c299",
+    "storage_bucket": "thecareercompany-3c299.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217217520914:android:6ab28ff10bb424fb470fcb",
+        "android_client_info": {
+          "package_name": "com.example.hackathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx7pMFHz8uhl2r4f3GCQzkSfqjGTBDr3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
